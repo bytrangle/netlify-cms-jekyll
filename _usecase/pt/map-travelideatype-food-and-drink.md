@@ -1,0 +1,3 @@
+---
+travelIdeaType: comida e bebida
+---
