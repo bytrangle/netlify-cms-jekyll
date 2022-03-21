@@ -1,0 +1,3 @@
+---
+travelIdeaType: art and culture
+---
