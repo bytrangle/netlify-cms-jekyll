@@ -1,0 +1,36 @@
+{
+  "en": {
+    "title": "Travel types EN",
+    "items": [
+      {
+        "title": "Art and Culture",
+        "id": "art-and-culture"
+      },
+      {
+        "title": "Food and drink",
+        "id": "food-and-drink"
+      },
+      {
+        "title": "Outdoors",
+        "id": "outdoors"
+      }
+    ]
+  },
+  "de": {
+    "title": "Travel types DE",
+    "items": [
+      {
+        "title": "Kunst und Kultur",
+        "id": "art-and-culture"
+      },
+      {
+        "title": "Essen und Trinken",
+        "id": "food-and-drink"
+      },
+      {
+        "title": "Draußen",
+        "id": "outdoors"
+      }
+    ]
+  }
+}
